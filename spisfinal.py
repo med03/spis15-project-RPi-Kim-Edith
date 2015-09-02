@@ -152,7 +152,7 @@ try:
                     a.ChangeDutyCycle(0)
                     b.ChangeDutyCycle(0)
                     p.ChangeDutyCycle(0)
-  q.ChangeDutyCycle(0)
+                    q.ChangeDutyCycle(0)
                     print('stop')
                     openx()
                     grabbedbox = 0
